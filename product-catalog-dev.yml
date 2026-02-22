@@ -11,4 +11,4 @@ spring:
       ddl-auto: update
     show-sql: true
 
-message: in development profile
+message: in development profile  - updated
